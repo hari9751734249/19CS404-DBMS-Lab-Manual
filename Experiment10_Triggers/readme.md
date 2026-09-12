@@ -100,7 +100,8 @@ COMMIT;
 DELETE FROM sensitive_data WHERE id = 1;
 ```
 **Output:**
-<img width="2176" height="723" alt="image" src="https://github.com/user-attachments/assets/02f8708f-8e4c-4a09-8f31-9e7ddd7e59f5" />
+<img width="433" height="119" alt="image" src="https://github.com/user-attachments/assets/38e56f18-260e-4c7d-8ae1-52f7e81a7737" />
+
 
 ---
 
@@ -231,8 +232,8 @@ VALUES (101, 'Anil', 2500);
 ```
 **Output 1:**
 
+<img width="563" height="93" alt="image" src="https://github.com/user-attachments/assets/5f7f40df-9198-4d67-a066-287107d9119e" />
 
-<img width="2173" height="724" alt="image" src="https://github.com/user-attachments/assets/a28f6a87-4455-48b8-a21a-4127b0023d42" />
 
 ### valid Execution:
 ```
